@@ -145,4 +145,4 @@ System.out.println(bariskan("#",11));
 udah yah, bisa copy dari yang atasnya barusan... nggak perlu penjelasan lebih lanjut khyann~? Mirip sih ini mah sama yang diatas barusan. Seriusan hahahahah
 
 Sip. Selesai.
-Solusinya bisa di liat di [sini](blob/master/Batang.java)
+Solusinya bisa di liat di [sini](Batang.java)
