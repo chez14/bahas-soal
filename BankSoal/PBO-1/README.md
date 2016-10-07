@@ -102,7 +102,7 @@ Sekarang `%9s` akan mengeluarkan output ini:
 #       **#
 #        *#
 ```
-Yahh, kebalikk.... Setelah liat [dokumentasi](https://docs.oracle.com/javase/tutorial/java/data/numberformat.html) dari javadoc, ternyata `-` bisa bikin formatnya jadi kekanan, alias ngasih spasinya terakhir.
+Yahh, kebalikk.... Setelah liat [dokumentasi](https://docs.oracle.com/javase/tutorial/java/data/numberformat.html) dari javadoc, ternyata `-` bisa bikin formatnya jadi ke kiri, alias ngasih spasinya terakhir.
 
 Oh iya, lupa ngomong, spasinya itu nilai otomatis buat formatting loh! kita bisa pake buat integer, float dan lain lainnya. Tapi biasanya kalo kita pake float, karakter setelah koma(titik) biasanya 0 sih. hehe...
 
