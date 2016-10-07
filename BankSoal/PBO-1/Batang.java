@@ -1,14 +1,5 @@
-/**
- *  Kelas Batang adalah solusi untuk soal PBO-1.
- *
- *  @author Gunawan Christianto
- *  @version v1.2
- */
 import java.util.Scanner;
 public class Batang {
-    /**
-     * Program starting point.
-     */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int data = sc.nextInt();
@@ -31,7 +22,7 @@ public class Batang {
      */
      public static String bariskan(String karakter, int banyak){
          String temp=""; // variabel penampung.
-         while(banyak-->0)
+         for(int i=banyak; i>0; i--)
             temp+=karakter;
          return temp;
      }
